@@ -1,5 +1,5 @@
 {
-  "GeneratorAssembly": "demo/generator/CommunityToolkit.Mvvm.SourceGenerators.dll",
+  "GeneratorAssembly": "demo/CommunityToolkit.Mvvm/CommunityToolkit.Mvvm.SourceGenerators.dll",
   "TargetFiles": [
     "demo/MainViewModel.cs"
   ],
@@ -8,7 +8,7 @@
     "C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.8/System.dll",
     "C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.8/System.Core.dll",
     "C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.8/Facades/netstandard.dll",
-    "demo/generator/CommunityToolkit.Mvvm.dll"
+    "demo/CommunityToolkit.Mvvm/CommunityToolkit.Mvvm.dll"
   ],
   "OutputDirectory": "./Generated"
 }

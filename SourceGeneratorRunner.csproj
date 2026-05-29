@@ -24,6 +24,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="demo\CommunityToolkit.Mvvm\CommunityToolkit.Mvvm.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="demo\CommunityToolkit.Mvvm\CommunityToolkit.Mvvm.SourceGenerators.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="demo\CommunityToolkit.Mvvm\License.md">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="demo\generator\CommunityToolkit.Mvvm.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
